@@ -1,0 +1,19 @@
+{
+  "name": "test-node-web-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafalfaro18/test-node-web-server.git"
+  },
+  "author": "Rafael Alfaro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafalfaro18/test-node-web-server/issues"
+  },
+  "homepage": "https://github.com/rafalfaro18/test-node-web-server#readme"
+}
